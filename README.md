@@ -8,7 +8,14 @@ This tool allow you to ignore syncfile of Dropbox Linux
 
 ## Pre-requisite
 
-Please, install `attr` before
+Please, install `attr` before (and dropbox)
+
+## Installation
+
+```bash
+git clone https://github.com/JeremyLARDENOIS/dxignore
+sudo cp -a dxignore/dxignore.sh /usr/local/bin/dxignore
+```
 
 ## Usage
 
