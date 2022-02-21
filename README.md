@@ -1,6 +1,6 @@
 # dxignore
 
-This tool allow you to ignore syncfile of Dropbox Linux
+This tool allow you to ignore file synchronisation of Dropbox in Linux
 
 ## Documentation
 
